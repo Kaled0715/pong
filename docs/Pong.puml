@@ -1,0 +1,14 @@
+@startuml PONG
+
+class Pelota
+class Jugador{
+    o moverse
+    
+
+}
+class Ia
+class Puntos
+class Paso
+
+
+@enduml
